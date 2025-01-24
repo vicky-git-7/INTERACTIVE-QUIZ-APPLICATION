@@ -21,3 +21,5 @@ When the quiz has been finished, the user is presented with their final score an
 This is one of those web apps that any user can learn from, have fun with, and test themselves on while being given instant feedback.
 
 OUTPUT
+
+![Image](https://github.com/user-attachments/assets/aef2b02d-9515-4ae9-8c90-fad6a9c7df60)
